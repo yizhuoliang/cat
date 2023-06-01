@@ -1,0 +1,5 @@
+/Users/coulson/cat/obj/Debug/netcoreapp3.1/Apitest.csproj.AssemblyReference.cache
+/Users/coulson/cat/obj/Debug/netcoreapp3.1/Apitest.GeneratedMSBuildEditorConfig.editorconfig
+/Users/coulson/cat/obj/Debug/netcoreapp3.1/Apitest.AssemblyInfoInputs.cache
+/Users/coulson/cat/obj/Debug/netcoreapp3.1/Apitest.AssemblyInfo.cs
+/Users/coulson/cat/obj/Debug/netcoreapp3.1/Apitest.csproj.CoreCompileInputs.cache
